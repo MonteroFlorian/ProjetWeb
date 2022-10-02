@@ -1,3 +1,7 @@
 body{
     color : lightskyblue;
 }
+@font-face{
+    font-family: Champignon;
+    src: url(C:\wamp64\www\Les_Champs_de_Vinyles\ProjetWeb\public\Assets\champignon\Champignon.otf);
+}
