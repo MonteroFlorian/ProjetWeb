@@ -20,6 +20,7 @@ CREATE TABLE vinyl.disque (
 	auteur varchar(60) not null,
 	prix int not null,
 	image varchar(100) not null,
+	genre varchar(20) not null,
 	CONSTRAINT disque_image_key UNIQUE (image),
 	CONSTRAINT disque_pkey PRIMARY KEY (id_disque),
 	constraint disque_titre unique (titre)
@@ -48,7 +49,6 @@ CREATE TABLE vinyl.achats (
 	FOREIGN KEY (id_disque) REFERENCES vinyl.disque (id_disque)
 
 );
-
 
 
 
