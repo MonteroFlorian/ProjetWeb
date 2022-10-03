@@ -1,4 +1,4 @@
-DROP schema if exists vinyL ;
+DROP schema if exists vinyL cascade;
 
 CREATE SCHEMA vinyl;
 
@@ -13,6 +13,7 @@ CREATE TABLE vinyl.comptes (
 	CONSTRAINT comptes_pkey PRIMARY KEY (id_user)
 );
 
+
 CREATE TABLE vinyl.disque (
 	id_disque serial4 NOT NULL,
 	titre varchar(60) NOT NULL,
@@ -24,12 +25,6 @@ CREATE TABLE vinyl.disque (
 	constraint disque_titre unique (titre)
 );
 
-CREATE TABLE vinyl.album(
-	id_disque int NOT NULL,
-	id_music int NOT NULL,
-	FOREIGN KEY (id_music) REFERENCES musiques (id_music),
-	FOREIGN KEY (id_disque) REFERENCES disque (id_disque),
-	);
 
 CREATE TABLE vinyl.musiques (
 	id_music serial4 NOT NULL,
@@ -38,3 +33,22 @@ CREATE TABLE vinyl.musiques (
 	CONSTRAINT musiques_link_key UNIQUE (link),
 	CONSTRAINT musiques_pkey PRIMARY KEY (id_music)
 );
+
+CREATE TABLE vinyl.album(
+	id_disque int NOT NULL,
+	id_music int NOT NULL,
+	FOREIGN KEY (id_music) REFERENCES vinyl.musiques (id_music),
+	FOREIGN KEY (id_disque) REFERENCES vinyl.disque (id_disque)
+	);
+
+CREATE TABLE vinyl.achats (
+	id_user int NOT NULL,
+	id_disque int NOT NULL,
+	FOREIGN KEY (id_user) REFERENCES vinyl.comptes (id_user),
+	FOREIGN KEY (id_disque) REFERENCES vinyl.disque (id_disque)
+
+);
+
+
+
+
