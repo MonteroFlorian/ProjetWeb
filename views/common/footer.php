@@ -1,5 +1,5 @@
-<div class="container-fluid">
-<footer class="container-fluid border-top" >
+<div class="container-fluid " >
+<footer class="container-fluid"  >
     
     <div class="row">
         <div class="col-sm-3">
