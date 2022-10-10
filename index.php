@@ -22,6 +22,18 @@ try{
     switch($page){
         case "accueil": $visiteurController->accueil();
         break;
+        case "Rock": $visiteurController->Rock();
+        break;
+        case "Rap": $visiteurController->Rap();
+        break;
+        case "Pop": $visiteurController->Pop();
+        break;
+        case "Metal": $visiteurController->Metal();
+        break;
+        case "Reggae": $visiteurController->Reggae();
+        break;
+        case "Classique": $visiteurController->Classique();
+        break;
         case "login": $visiteurController->login();
         break;
         case "validation_login":

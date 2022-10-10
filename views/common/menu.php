@@ -13,12 +13,12 @@
                         Genres
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="<?= URL; ?>pClassique">Classique</a></li>
-                        <li><a class="dropdown-item" href="<?= URL; ?>pMetal">Métal</a></li>
-                        <li><a class="dropdown-item" href="<?= URL; ?>pPop">Pop</a></li>
-                        <li><a class="dropdown-item" href="<?= URL; ?>pRap">Rap</a></li>
-                        <li><a class="dropdown-item" href="<?= URL; ?>pReggae">Reggae</a></li>
-                        <li><a class="dropdown-item" href="<?= URL; ?>pRock">Rock</a></li>
+                        <li><a class="dropdown-item" href="<?= URL; ?>Classique">Classique</a></li>
+                        <li><a class="dropdown-item" href="<?= URL; ?>Metal">Métal</a></li>
+                        <li><a class="dropdown-item" href="<?= URL; ?>Pop">Pop</a></li>
+                        <li><a class="dropdown-item" href="<?= URL; ?>Rap">Rap</a></li>
+                        <li><a class="dropdown-item" href="<?= URL; ?>Reggae">Reggae</a></li>
+                        <li><a class="dropdown-item" href="<?= URL; ?>Rock">Rock</a></li>
                     </ul>
                 </li>
                 <?php if(empty($_SESSION['profil'])) : ?>

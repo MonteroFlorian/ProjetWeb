@@ -25,6 +25,67 @@ abstract class MainController{
         ];
         $this->genererPage($data_page);
     }
+
+    public function Pop(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Pop.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+    
+    public function Rap(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rap.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+    
+    public function Reggae(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Reggae.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function Rock(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rock.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function Metal(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Metal.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function Classique(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Classique.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
     public function login(){
     $data_page=[
         "page_description" => "Page de connexion",
