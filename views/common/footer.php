@@ -1,4 +1,6 @@
-<footer class="container pt-3 border-top">
+<div class="container-fluid">
+<footer class="container-fluid border-top" >
+    
     <div class="row">
         <div class="col-sm-3">
             <img class="mb-2" src="public/Assets/images/logo.png" alt="" width="100">
@@ -28,4 +30,6 @@
             </ul>
         </div>
     </div>
+
 </footer>
+</div>
