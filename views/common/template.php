@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Page permettant de gérer les erreurs">
-        <title>Page d'erreur</title>
+        <title>Les Champs de Vinyles</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     </head>
     <body>
@@ -30,7 +30,7 @@
         </div>
         </section>
 
-        <section class="container">
+        <section class="container-fluid" style = "margin:0%; padding:0%;" >
             <?= $page_content; ?>
         </section>
 
