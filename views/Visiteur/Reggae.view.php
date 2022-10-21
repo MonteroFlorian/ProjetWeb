@@ -18,7 +18,7 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
            <div class="card" style="margin: 50px; ">
                 <img class="card-img-top" src="public\Assets\images\Album\Reggae\BobMarley\M.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>M</strong></h5>
+                          <h5 class="card-title"><strong>Trenchtown Days: Birth of a Legend</strong></h5>
                               <p class="card-text"><strong>By Bob Marley</strong></p>
                                  <a href="#" class="btn btn-primary">Go somewhere</a>
                       </div>
@@ -26,7 +26,7 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
       <div class="card" style="margin: 50px;  ">
                 <img class="card-img-top" src="public\Assets\images\Album\Reggae\Danakil\DDS.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>DDS</strong></h5>
+                          <h5 class="card-title"><strong>Dialogue de sourds</strong></h5>
                               <p class="card-text"><strong>By Danakil</strong></p>
                                  <a href="#" class="btn btn-primary">Go somewhere</a>
                       </div>
@@ -37,7 +37,7 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
       <div class="card" style="margin: 50px;  ">
                 <img class="card-img-top" src="public\Assets\images\Album\Reggae\ThirdWorld\96.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>96</strong></h5>
+                          <h5 class="card-title"><strong>96° in the shade</strong></h5>
                               <p class="card-text"><strong>By ThirdWorld</strong></p>
                                  <a href="#" class="btn btn-primary">Go somewhere</a>
                       </div>
