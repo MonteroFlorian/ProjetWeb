@@ -13,7 +13,7 @@
                 </div>
             </div>
         <div class="col-sm-6 ">
-            <br/> <br/>
+            <br/> <br/><br/> <br/><br/> <br/>
         <h1 class="card-title" style="color:black; text-align:center;"> <strong> METAL </strong></h1>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-12 g-12">
             <div class="col-sm-6" >
