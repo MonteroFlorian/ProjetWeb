@@ -13,18 +13,18 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-12 g-12">
             <div class="col-sm-6" >
                  <div class="card" style="margin: 100px; ">
-                      <img class="card-img-top" src="public\Assets\images\Album\Rock\ACDC\TRE.jpg" alt="Card image cap">
+                      <img class="card-img-top" src="public\Assets\images\Album\Classique\JSB\JSB.jpg" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">Some quick example .</p>
+                                <h5 class="card-title">Clavier bien tempéré</h5>
+                                    <p class="card-text">by Jean-Sébastien Bach.</p>
                                        <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
             </div>
             <div class="card" style="margin: 100px;  ">
-                      <img class="card-img-top" src="public\Assets\images\Album\Rock\Nirvanna\Nevermind.jpg" alt="Card image cap">
+                      <img class="card-img-top" src="public\Assets\images\Album\Classique\LVB\LVB.jpg" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">Some quick example .</p>
+                                <h5 class="card-title">Les neufs symphonies</h5>
+                                    <p class="card-text">by Ludwig van Beethoven.</p>
                                        <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
             </div>
@@ -32,18 +32,18 @@
 
             <div class="col-sm-6">
             <div class="card" style="margin: 100px;  ">
-                      <img class="card-img-top" src="public\Assets\images\Album\Rock\TFK\TheEndIsWhereWeBegin.jpg" alt="Card image cap">
+                      <img class="card-img-top" src="public\Assets\images\Album\Classique\Mozart\Mozart.jpg" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">Some quick example.</p>
+                                <h5 class="card-title">Oeuvres sacrées</h5>
+                                    <p class="card-text">by Wolfgang Amadeus Mozart.</p>
                                        <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
             </div>
             <div class="card" style="margin: 100px;  ">
-                      <img class="card-img-top" src="public\Assets\images\Album\Rock\TSTM\ABeautifulLie.jpg" alt="Card image cap">
+                      <img class="card-img-top" src="public\Assets\images\Album\Classique\Vivaldi\Vivaldi.jpg" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">Some quick example .</p>
+                                <h5 class="card-title">Les quatres saisons</h5>
+                                    <p class="card-text">by Antonio Vivaldi.</p>
                                        <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
             </div>
