@@ -12,42 +12,42 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
       </div>
   <div class="col-sm-6 ">
       <br/> <br/><br/> <br/><br/> <br/>
-  <h1 class="card-title" style="color:black; text-align:center;"> <strong> ROCK </strong></h1>
+  <h1 class="card-title" style="color:black; text-align:center;"> <strong> REGGAE </strong></h1>
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-12 g-12">
       <div class="col-sm-6" >
            <div class="card" style="margin: 50px; ">
-                <img class="card-img-top" src="public\Assets\images\Album\Rock\ACDC\TRE.jpg" alt="Card image cap">
+                <img class="card-img-top" src="public\Assets\images\Album\Reggae\BobMarley\M.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>THE RAZOR EDGE</strong></h5>
-                              <p class="card-text"><strong>by AC/DC</strong></p>
-                                 <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <h5 class="card-title"><strong>Trenchtown Days: Birth of a Legend</strong></h5>
+                              <p class="card-text">by Bob Marley</p>
+                                 <a href="<?= URL; ?>Trenchtown_Days_Birth_of_a_Legend" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       <div class="card" style="margin: 50px;  ">
-                <img class="card-img-top" src="public\Assets\images\Album\Rock\Nirvanna\Nevermind.jpg" alt="Card image cap">
+                <img class="card-img-top" src="public\Assets\images\Album\Reggae\Danakil\DDS.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>NEVERMIND</strong></h5>
-                              <p class="card-text"><strong>By Nirvanna</strong></p>
-                                 <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <h5 class="card-title"><strong>Dialogue de sourds</strong></h5>
+                              <p class="card-text">by Danakil</p>
+                                 <a href="<?= URL; ?>Dialogue_de_sourds" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       </div>
 
       <div class="col-sm-6">
       <div class="card" style="margin: 50px;  ">
-                <img class="card-img-top" src="public\Assets\images\Album\Rock\TFK\TheEndIsWhereWeBegin.jpg" alt="Card image cap">
+                <img class="card-img-top" src="public\Assets\images\Album\Reggae\ThirdWorld\96.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>THE END IS WHERE WE BEGIN</strong></h5>
-                              <p class="card-text"><strong>By Thousand Foot Krutch</strong></p>
-                                 <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <h5 class="card-title"><strong>96° in the shade</strong></h5>
+                              <p class="card-text">by ThirdWorld</p>
+                                 <a href="<?= URL; ?>°_in_the_shade" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       <div class="card" style="margin: 50px;  ">
-                <img class="card-img-top" src="public\Assets\images\Album\Rock\TSTM\ABeautifulLie.jpg" alt="Card image cap">
+                <img class="card-img-top" src="public\Assets\images\Album\Reggae\TMD\RightTime.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>A BEAUTIFUL LIE</strong></h5>
-                              <p class="card-text"><strong>By Thirty Seconds To Mars</strong></p>
-                                 <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <h5 class="card-title"><strong>Right Time</strong></h5>
+                              <p class="card-text">by TMD</p>
+                                 <a href="<?= URL; ?>Right_time" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       </div>
@@ -72,5 +72,3 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
   
 </div>
 </div>
-
-

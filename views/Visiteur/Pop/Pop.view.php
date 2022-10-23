@@ -18,17 +18,17 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
            <div class="card" style="margin: 50px; ">
                 <img class="card-img-top" src="public\Assets\images\Album\Pop\BrunoMars\BM.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>DOO-WOPS & HOOLIGANS</strong></h5>
-                              <p class="card-text"><strong>by Bruno Mars</strong></p>
-                                 <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <h5 class="card-title"><strong>Doo-Wops & Hooligans</strong></h5>
+                              <p class="card-text">by Bruno Mars</p>
+                                 <a href="<?= URL; ?>Doo_Wops_Hooligans" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       <div class="card" style="margin: 50px;  ">
                 <img class="card-img-top" src="public\Assets\images\Album\Pop\Maroon5\M5.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>RED PILL BLUES</strong></h5>
-                              <p class="card-text"><strong>By Maroon 5</strong></p>
-                                 <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <h5 class="card-title"><strong>Red Pill Blues</strong></h5>
+                              <p class="card-text">by Maroon 5</p>
+                                 <a href="<?= URL; ?>Red_Pills_Blues" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       </div>
@@ -37,9 +37,9 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
       <div class="card" style="margin: 50px;  ">
                 <img class="card-img-top" src="public\Assets\images\Album\Pop\TheWeeknd\TWE.jpg" alt="Card image cap">
                      <div class="card-body">
-                          <h5 class="card-title"><strong>AFTER HOURS</strong></h5>
-                              <p class="card-text"><strong>By TheWeeknd</strong></p>
-                                 <a href="#" class="btn btn-primary">Go somewhere</a>
+                          <h5 class="card-title"><strong>After Hours</strong></h5>
+                              <p class="card-text">by TheWeeknd</p>
+                                 <a href="<?= URL; ?>After_Hours" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       

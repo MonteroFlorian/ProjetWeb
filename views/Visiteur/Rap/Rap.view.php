@@ -17,17 +17,17 @@
                  <div class="card" style="margin: 50px; ">
                       <img class="card-img-top" src="public\Assets\images\Album\Rap\Damso\Damso.png" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title"><strong>IPSEITE</strong></h5>
-                                    <p class="card-text"><strong>By Damso</strong></p>
-                                       <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><strong>Ipséité</strong></h5>
+                                    <p class="card-text">by Damso</p>
+                                       <a href="<?= URL; ?>Ipséité" class="btn btn-primary">Voir</a>
                             </div>
             </div>
             <div class="card" style="margin: 50px;  ">
                       <img class="card-img-top" src="public\Assets\images\Album\Rap\KL\KL.jpg" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title"><strong>GOOD KID, M.A.A.D CITY</strong></h5>
-                                    <p class="card-text"><strong>By Kendrick Lamar</strong></p>
-                                       <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><strong>Good Kid, M.A.A.D City</strong></h5>
+                                    <p class="card-text">by Kendrick Lamar</p>
+                                       <a href="<?= URL; ?>Good_Kid_MAAD_City" class="btn btn-primary">Voir</a>
                             </div>
             </div>
             </div>
@@ -36,17 +36,17 @@
             <div class="card" style="margin: 50px;  ">
                       <img class="card-img-top" src="public\Assets\images\Album\Rap\Polak\PLK.jpg" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title"><strong>MENTAL</strong></h5>
-                                    <p class="card-text"><strong>By PLK</strong></p>
-                                       <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><strong>Mental</strong></h5>
+                                    <p class="card-text">by PLK</p>
+                                       <a href="<?= URL; ?>Mental" class="btn btn-primary">Voir</a>
                             </div>
             </div>
             <div class="card" style="margin: 50px;  ">
                       <img class="card-img-top" src="public\Assets\images\Album\Rap\Vald\XEU.jpeg" alt="Card image cap">
                            <div class="card-body">
-                                <h5 class="card-title"><strong>XEU</strong></h5>
-                                    <p class="card-text"><strong>By VALD</strong></p>
-                                       <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><strong>Xeu</strong></h5>
+                                    <p class="card-text">by VALD</p>
+                                       <a href="<?= URL; ?>Xeu" class="btn btn-primary">Voir</a>
                             </div>
             </div>
             </div>
