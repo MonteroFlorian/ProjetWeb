@@ -32,11 +32,11 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
-    public function Clavier_bien_tempéré(){
+    public function Clavier_bien_tempere(){
         $data_page = [
             "page_description" => "Description de la page d'accueil",
             "page_title" => "Titre de la page d'accueil",
-            "view" => "views/Visiteur/Classique/Clavier_bien_tempéré.view.php",
+            "view" => "views/Visiteur/Classique/Clavier_bien_tempere.view.php",
             "template" => "views/common/template.php"
         ];
         $this->genererPage($data_page);
@@ -326,6 +326,8 @@ class VisiteurController extends MainController{
         ];
         $this->genererPage($data_page);
     }
+
+    
     public function creerCompte(){
         $data_page = [
             "page_description" => "Page de création de compte",

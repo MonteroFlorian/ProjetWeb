@@ -1,5 +1,4 @@
-
-    <div class="container-fluid">
+<div class="container-fluid">
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-12 g-12">
 
             <div class="col-sm-3 "style = "margin:0%; padding:0%;">
@@ -8,7 +7,7 @@
   background-position:center; background-repeat:no-repeat; background-size:cover; z-index:5;">
                 </div>
             </div>
-        <div class="col-sm-6 ">
+        <div class="col-sm-6" style = " text-align:center; background-color:#FDF5E6 ;">
         <br/> <br/><br/> <br/><br/> <br/>
         <h1 class="card-title" style="color:black; text-align:center;"> <strong> CLASSIQUE </strong></h1>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-12 g-12">
@@ -18,7 +17,7 @@
                            <div class="card-body">
                                 <h5 class="card-title"><strong>Clavier bien tempéré</strong></h5>
                                     <p class="card-text">by Jean-Sébastien Bach</p>
-                                       <a href="<?= URL; ?>Clavier_bien_tempéré" class="btn btn-primary">Voir</a>
+                                       <a href="<?= URL; ?>Clavier_bien_tempere" class="btn btn-primary">Voir</a>
                             </div>
             </div>
             <div class="card" style="margin: 50px;  ">
@@ -68,8 +67,8 @@
             </div>
 
         
-      </div>
     </div>
+</div>
 
 
 

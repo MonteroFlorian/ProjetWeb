@@ -10,6 +10,7 @@
     </head>
     <body>
         <link href="<?= URL ?>public/CSS/main.css" rel="stylesheet" />
+        <script src="<?= URL ?>public/JavaScript/music.js" defer></script>
         <?php if(!empty($page_css)) : ?>
             <link href="<?php URL ?>public/CSS/<? $page_css ?>" rel="stylesheet"/>
         <?php endif; ?>
