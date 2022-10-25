@@ -15,10 +15,10 @@
             <br/> <br/><br/> <br/><br/> <br/>
             <h1 class="card-title" style="color:black; text-align:center;"> <strong>Clavier bien tempéré </strong></h1>
             <div class="player">
-                <img class="card-img-top" src="public\Assets\images\Album\Classique\JSB\JSB.jpg" alt="Card image cap">
+                
                 <div class="wrapper">
                     <div class="details">
-                        <div class="track-art"></div>
+                        <img class="track-art" src="public\Assets\images\Album\Classique\JSB\JSB.jpg" alt="Card image cap">
                         <div class="track-name">Track Name</div>
                         <div class="track-artist">Jean Sébastien Bach</div>
                     </div>
