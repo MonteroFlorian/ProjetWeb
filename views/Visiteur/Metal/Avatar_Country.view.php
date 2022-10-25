@@ -16,9 +16,9 @@
                 
                 <div class="wrapper">
                     <div class="details">
-                        <img class="track-art" src="public\Assets\images\Album\Classique\JSB\JSB.jpg" alt="Card image cap">
-                        <div class="track-name">Prélude en C majeur</div>
-                        <div class="track-artist">Jean Sébastien Bach</div>
+                        <img class="track-art" src="public\Assets\images\Album\Metal\Avatar\AC.jpg" alt="Card image cap">
+                        <div class="track-name">A Statue of The King</div>
+                        <div class="track-artist">Avatar</div>
                     </div>
 
                     <div class="slider_container">

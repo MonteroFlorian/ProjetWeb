@@ -28,7 +28,7 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
                      <div class="card-body">
                           <h5 class="card-title"><strong>Red Pill Blues</strong></h5>
                               <p class="card-text">by Maroon 5</p>
-                                 <a href="<?= URL; ?>Red_Pills_Blues" class="btn btn-primary">Voir</a>
+                                 <a href="<?= URL; ?>Red_Pill_Blues" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       </div>
