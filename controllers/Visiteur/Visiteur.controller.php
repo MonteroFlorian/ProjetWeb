@@ -42,11 +42,11 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
-    public function Oeuvres_sacrées(){
+    public function Oeuvres_sacrees(){
         $data_page = [
             "page_description" => "Description de la page d'accueil",
             "page_title" => "Titre de la page d'accueil",
-            "view" => "views/Visiteur/Classique/Oeuvres_sacrées.view.php",
+            "view" => "views/Visiteur/Classique/Oeuvres_sacrees.view.php",
             "template" => "views/common/template.php"
         ];
         $this->genererPage($data_page);
@@ -148,11 +148,11 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
-    public function Doo_Wops_Hooligans(){
+    public function Doo_Wops_AND_Hooligans(){
         $data_page = [
             "page_description" => "Description de la page d'accueil",
             "page_title" => "Titre de la page d'accueil",
-            "view" => "views/Visiteur/Pop/Doo-Wops_&_Hooligans.view.php",
+            "view" => "views/Visiteur/Pop/Doo_Wops_AND_Hooligans.view.php",
             "template" => "views/common/template.php"
         ];
         $this->genererPage($data_page);
@@ -211,11 +211,11 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
-    public function Ipséité(){
+    public function Ipseite(){
         $data_page = [
             "page_description" => "Description de la page d'accueil",
             "page_title" => "Titre de la page d'accueil",
-            "view" => "views/Visiteur/Rap/Ipséité.view.php",
+            "view" => "views/Visiteur/Rap/Ipseite.view.php",
             "template" => "views/common/template.php"
         ];
         $this->genererPage($data_page);
@@ -234,11 +234,11 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
-    public function °_in_the_shade(){
+    public function degrees_in_the_shade(){
         $data_page = [
             "page_description" => "Description de la page d'accueil",
             "page_title" => "Titre de la page d'accueil",
-            "view" => "views/Visiteur/Reggae/96°_in_the_shade.view.php",
+            "view" => "views/Visiteur/Reggae/96_degrees_in_the_shade.view.php",
             "template" => "views/common/template.php"
         ];
         $this->genererPage($data_page);

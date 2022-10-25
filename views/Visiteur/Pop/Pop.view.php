@@ -20,7 +20,7 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
                      <div class="card-body">
                           <h5 class="card-title"><strong>Doo-Wops & Hooligans</strong></h5>
                               <p class="card-text">by Bruno Mars</p>
-                                 <a href="<?= URL; ?>Doo_Wops_Hooligans" class="btn btn-primary">Voir</a>
+                                 <a href="<?= URL; ?>Doo_Wops_AND_Hooligans" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       <div class="card" style="margin: 50px;  ">

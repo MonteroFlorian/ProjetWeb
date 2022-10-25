@@ -11,8 +11,9 @@
 
             <div class="col-sm-6 "  style = "padding:10%; text-align:center; background-color:#FDF5E6 ;">
                         <br/>
-                        <h1 class="card-title" style="color:black;"> <strong> Bienvenue sur notre site de vente de vinyles en tout genre !!! </strong></h1><br/><br/><br/>
-                        <h1 style="color:black;"> <strong> Pour vous amoureux de musique, vous pouvez maintenant commander les vinyles de vos artistes préférés </strong>  </h1><br/><br/><br/>
+                        <h1 class="card-title" style="color:black;"> <strong> Bienvenue sur notre site de vente de vinyles !!! </strong></h1><br/><br/><br/>
+                        <h1 style="color:black;"> <strong> Pour vous, amoureux de musique, vous pouvez maintenant commander les vinyles de vos artistes préférés </strong>  </h1><br/><br/><br/>
+                        <h1 style="color:black;"> <strong> Nous vous proposons une selection de vinyles de tout genre musicaux allant du classique jusqu'au métal </strong>  </h1><br/><br/><br/>
                         <h1 style="color:black;"> <strong>"La musique donne une âme à nos coeurs et des ailes à la pensée." <br/>Platon </strong>  </h1>
             </div>
 

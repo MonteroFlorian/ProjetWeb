@@ -36,7 +36,7 @@
                            <div class="card-body">
                                 <h5 class="card-title"><strong>Oeuvres sacrées</strong></h5>
                                     <p class="card-text">by Wolfgang Amadeus Mozart</p>
-                                       <a href="<?= URL; ?>Oeuvres_sacrées" class="btn btn-primary">Voir</a>
+                                       <a href="<?= URL; ?>Oeuvres_sacrees" class="btn btn-primary">Voir</a>
                             </div>
             </div>
             <div class="card" style="margin: 50px;  ">

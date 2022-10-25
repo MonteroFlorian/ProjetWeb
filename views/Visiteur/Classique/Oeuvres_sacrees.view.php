@@ -11,14 +11,14 @@
     
         <div class="col-sm-6" style = " text-align:center; background-color:#FDF5E6 ;">
             <br/> <br/><br/> <br/><br/> <br/>
-            <h1 class="card-title" style="color:black; text-align:center;"> <strong>Les neufs symphonies </strong></h1>
+            <h1 class="card-title" style="color:black; text-align:center;"> <strong>Oeuvres sacrées </strong></h1>
             <div class="player">
                 
                 <div class="wrapper">
                     <div class="details">
-                        <img class="track-art" src="public\Assets\images\Album\Classique\LVB\LVB.jpg" alt="Card image cap">
-                        <div class="track-name">7ème symphonie en A majeur </div>
-                        <div class="track-artist">Beethoven</div>
+                        <img class="track-art" src="public\Assets\images\Album\Classique\Mozart\Mozart.jpg" alt="Card image cap">
+                        <div class="track-name"> Lacrimosa</div>
+                        <div class="track-artist">Wolfgang Amadeus Mozart</div>
                     </div>
 
                     <div class="slider_container">

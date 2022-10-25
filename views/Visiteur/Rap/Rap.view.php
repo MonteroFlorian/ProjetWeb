@@ -19,7 +19,7 @@
                            <div class="card-body">
                                 <h5 class="card-title"><strong>Ipséité</strong></h5>
                                     <p class="card-text">by Damso</p>
-                                       <a href="<?= URL; ?>Ipséité" class="btn btn-primary">Voir</a>
+                                       <a href="<?= URL; ?>Ipseite" class="btn btn-primary">Voir</a>
                             </div>
             </div>
             <div class="card" style="margin: 50px;  ">

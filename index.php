@@ -36,7 +36,7 @@ try{
         break;
         case "Good_Kid_MAAD_City": $visiteurController->Good_Kid_MAAD_City();
         break;
-        case "Ipséité": $visiteurController->Ipséité();
+        case "Ipseite": $visiteurController->Ipseite();
         break;
         case "Mental": $visiteurController->Mental();
         break;
@@ -46,7 +46,7 @@ try{
         break;
         case "After_Hours": $visiteurController->After_Hours();
         break;
-        case "Doo-Wops_&_Hooligans": $visiteurController->Doo_Wops_Hooligans();
+        case "Doo_Wops_AND_Hooligans": $visiteurController->Doo_Wops_AND_Hooligans();
         break;
         case "Red_Pill_Blues": $visiteurController->Red_Pill_Blues();
         break;
@@ -62,7 +62,7 @@ try{
         break;
         case "Reggae": $visiteurController->Reggae();
         break;
-        case "96°_in_the_shade": $visiteurController->°_in_the_shade();
+        case "96_degrees_in_the_shade": $visiteurController->degrees_in_the_shade();
         break;
         case "Dialogue_de_sourds": $visiteurController->Dialogue_de_sourds();
         break;
@@ -78,7 +78,7 @@ try{
         break;
         case "Les_quatres_saisons": $visiteurController->Les_quatres_saisons();
         break;
-        case "Oeuvres_sacrées": $visiteurController->Oeuvres_sacrées();
+        case "Oeuvres_sacrees": $visiteurController->Oeuvres_sacrees();
         break;
         case "login": $visiteurController->login();
         break;

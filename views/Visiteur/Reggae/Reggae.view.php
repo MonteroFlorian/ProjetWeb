@@ -39,7 +39,7 @@ background-position:center; background-repeat:no-repeat; background-size:cover; 
                      <div class="card-body">
                           <h5 class="card-title"><strong>96° in the shade</strong></h5>
                               <p class="card-text">by ThirdWorld</p>
-                                 <a href="<?= URL; ?>°_in_the_shade" class="btn btn-primary">Voir</a>
+                                 <a href="<?= URL; ?>96_degrees_in_the_shade" class="btn btn-primary">Voir</a>
                       </div>
       </div>
       <div class="card" style="margin: 50px;  ">
