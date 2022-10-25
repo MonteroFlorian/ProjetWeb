@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="/public
-<script src="/public/JavaScript/music.js" defer></script>
+<link rel="stylesheet" href="<?= URL ?>public/CSS/main.css" rel="stylesheet" />
+<script src="<?= URL ?>public/JavaScript/music.js" defer></script>
 <div class="container-fluid">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-12 g-12">
 
