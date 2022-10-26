@@ -50,7 +50,28 @@
                         </div>  
                 </div>
             </div>
+            
+            </br></br>
+                <div class="row" >
+                    <div class="col-sm-6 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1865</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+                        <h1 style="color:black; font-size:25px; text-align:center;  ">1- Musique 1 </br></h1>
+                        <h1 style="color:black; font-size:25px; text-align:center; ">2- Musique 2 </br></h1>
+                        <h1 style="color:black; font-size:25px; text-align:center;">3- Musique 3 </br></h1>
+                        <h1 style="color:black; font-size:25px; text-align:center;">4- Musique 4 </br></h1>
+                    </div>
+
+                    <div class="col-sm-6 "  style =" background-color:#FDF5E6 ;">
+</br></br></br></br></br>
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter</a>
+
+                    </div>
+                </div>
+                
         </div>
+
+
 
 
         <div class="col-sm-3"  style = "margin:0%; padding:0%;">
