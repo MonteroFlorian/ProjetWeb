@@ -50,6 +50,33 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2012</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 14€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Sherane a.k.a master splinter's daughter </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Bitch don't kill my vibe </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Backseat freestyle </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- The art of peer pressure </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Money Trees </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Poetic justice </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Good kid </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- m.A.A.d city  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Swimming pools </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Sing about me, I'm dying of thirst </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Real </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- Compton </br></h1>
+
+
+                </div>
         </div>
 
 

@@ -50,6 +50,31 @@
                         </div>  
                 </div>
             </div>
+            </br></br>
+                <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1998</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 22€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Epicus furor </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Emerald sword </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Wisdom of the kings </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Heroes of the lost valley </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Eternal glory </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Beyond the gates of infinity </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Wings of destiny </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- The dark tower of abyss  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Riding the winds of eternity </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Symphony of enchanted lands </br></h1>
+
+                </div>
         </div>
 
 

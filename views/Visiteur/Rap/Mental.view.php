@@ -3,7 +3,7 @@
 
         <div class="col-sm-3 "style = "margin:0%; padding:0%;">
             <div class="card">
-                <img class="background-image"  style = "background-image:url(public/Assets/images/Vignes.jpg); min-height:1500px;background-attachment:fixed;
+                <img class="background-image"  style = "background-image:url(public/Assets/images/Vignes.jpg); min-height:1700px;background-attachment:fixed;
                 background-position:center; background-repeat:no-repeat; background-size:cover; z-index:5;">
             </div>
         </div>
@@ -50,12 +50,47 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2019</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 28€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Intr100000 </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Un peu de haine </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Arai </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Toute l'année </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Hola </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Travailler </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Nana </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Meilleur cauchemar  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Tout recommencer </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- V2V </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Corazon </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- Le P </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">13- Ma génération </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">14- Mental </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">15- Problemes </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">16- Cartelo </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">17- RS3 </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">18- TT  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">19- Temps perdu </br></h1>
+
+
+
+                </div>
         </div>
 
 
         <div class="col-sm-3"  style = "margin:0%; padding:0%;">
             <div class="card">  
-                <img class="background-image"  style = "background-image:url(public/Assets/images/ArmoireV.jpg); min-height:1500px;background-attachment:fixed;
+                <img class="background-image"  style = "background-image:url(public/Assets/images/ArmoireV.jpg); min-height:1700px;background-attachment:fixed;
                 background-position:center; background-repeat:no-repeat; background-size:cover; z-index:5;">
             </div>
         </div>

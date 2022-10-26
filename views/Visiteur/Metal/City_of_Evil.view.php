@@ -50,7 +50,34 @@
                         </div>  
                 </div>
             </div>
+            </br></br>
+                <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong>2005</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 30€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Beast and the harlot </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Burn it down </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Blinded in chains </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Bat country </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Trashed and scattered </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Seize the day </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Sidewinder </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- The wicked end  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Strength of the world </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Betrayed </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- M.I.A </br></h1>
+                </div>
         </div>
+
+        
 
 
         <div class="col-sm-3"  style = "margin:0%; padding:0%;">

@@ -3,7 +3,7 @@
 
         <div class="col-sm-3 "style = "margin:0%; padding:0%;">
             <div class="card">
-                <img class="background-image"  style = "background-image:url(public/Assets/images/Vignes.jpg); min-height:1500px;background-attachment:fixed;
+                <img class="background-image"  style = "background-image:url(public/Assets/images/Vignes.jpg); min-height:1850px;background-attachment:fixed;
                 background-position:center; background-repeat:no-repeat; background-size:cover; z-index:5;">
             </div>
         </div>
@@ -50,12 +50,50 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2017</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 21€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Best 4 u </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- What lovers do </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Wait </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Lips on you </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Bet my heart </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Help me out </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Who i am </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Whiskey  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Girls like you </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Closure </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Denim jacket </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- Visions </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">13- Don't wanna know </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">14- cold </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">15- Moves like jagger </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">16- Sugar </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">17- Daylight </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">18- Payphone  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">19- Maps </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">20- Stereo hearts </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">21- Harder to breathe </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">22- This love </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">23- Animals </br></h1>
+
+                </div>
         </div>
+
 
 
         <div class="col-sm-3"  style = "margin:0%; padding:0%;">
             <div class="card">  
-                <img class="background-image"  style = "background-image:url(public/Assets/images/ArmoireV.jpg); min-height:1500px;background-attachment:fixed;
+                <img class="background-image"  style = "background-image:url(public/Assets/images/ArmoireV.jpg); min-height:1850px;background-attachment:fixed;
                 background-position:center; background-repeat:no-repeat; background-size:cover; z-index:5;">
             </div>
         </div>
