@@ -50,6 +50,33 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2010</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 22€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Grenade </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Just the way you are </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Our first time </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Runaway baby </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- The lazy song </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Marry you </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Talking to the moon </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Liquor store blues  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Count on me </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- The other side </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Just the way you are ( remix ) </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- Somewhere in Brooklyn </br></h1>
+
+
+                </div>
         </div>
 
 
