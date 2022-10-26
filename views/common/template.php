@@ -10,15 +10,11 @@
     </head>
     <body>
         <link href="<?= URL ?>public/CSS/main.css" rel="stylesheet" />
-        <script src="<?= URL ?>public/JavaScript/music.js" defer></script>
+        <script type="text/javascript" src="public/JavaScript/music.js"></script>
         <?php if(!empty($page_css)) : ?>
             <link href="<?php URL ?>public/CSS/<? $page_css ?>" rel="stylesheet"/>
         <?php endif; ?>
-        <?php if(!empty($page_javscript)) : ?>
-            <?php foreach($page_javscript as $fichier_javascript) : ?>
-                <script src="<?= URL ?>public/JavaScript/<?$fichier_javascript ?>"></script>
-            <?php endforeach; ?>
-        <?php endif; ?>
+        
         <?php require_once("./views/common/header.php"); ?>
         <div class="container">
             <?php if(!empty($_SESSION['alert'])) {

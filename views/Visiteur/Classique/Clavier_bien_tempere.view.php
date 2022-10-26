@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="<?= URL ?>public/CSS/main.css" rel="stylesheet" />
-<script src="<?= URL ?>public/JavaScript/music.js" defer></script>
 <div class="container-fluid">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-12 g-12">
 
@@ -22,7 +20,13 @@
                         <div class="track-name">Prélude en mi majeur</div>
                         <div class="track-artist">Jean Sébastien Bach</div>
                     </div>
-
+                    
+                    <?php
+                    $file_name = "JSB/Johann Sebastian Bach ~ Prelude in C Major.mp3";
+                    echo '<audio autoplay="true" style="display:none;">
+                            <source src="public/Assets/Musique/Classique/'.$file_name.'">
+                            </audio>';
+                    ?>
                     <div class="slider_container">
                         <div class="current-time">00:00</div>
                             <input type="range" min="1" max="100" value="0" class="seek_slider" onchange="seekTo()">
