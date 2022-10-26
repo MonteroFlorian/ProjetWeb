@@ -11,7 +11,7 @@
     
         <div class="col-sm-6" style = " text-align:center; background-color:#FDF5E6 ;">
             <br/> <br/><br/> <br/><br/> <br/>
-            <h1 class="card-title" style="color:black; text-align:center;"> <strong>The Razor Edge</strong></h1>
+            <h1 class="card-title" style="color:black; text-align:center;"> <strong>The Razors Edge</strong></h1>
             <div class="player">
                 
                 <div class="wrapper">
@@ -50,6 +50,32 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1990</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 28€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Tunderstruck </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Fire your guns </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Moneytalks </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- The razors edge </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Mistress for christmas </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Rock your heart out </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Are you ready </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Got you by the balls  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Shot of love </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Let's make it </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Good bye and good riddance to bad luck </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- If you dare  </br></h1>
+
+                </div>
         </div>
 
 

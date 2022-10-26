@@ -50,6 +50,35 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2001</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 22€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- The introduction </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- We are </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Light up the sky </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- The end is where we begin </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Let the sparks fly </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- I get wicked </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Be somebody </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- This is a warning  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Courtesy call </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- War of change </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Down </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- All i need to know  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">13- Fly on the wall </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">14- So far gone </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">15- Outroduction </br></h1>
+
+                </div>
         </div>
 
 

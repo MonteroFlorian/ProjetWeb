@@ -50,6 +50,32 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2005</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 18€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Attack </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- A beautiful lie </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- The kill </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Was it a dream </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- The fantasy </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Savior </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- From yesterday </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- The story  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- R-evolve </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- A modern myth </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Battle of one </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- hunter  </br></h1>
+
+                </div>
         </div>
 
 

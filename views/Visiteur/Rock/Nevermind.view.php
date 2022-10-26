@@ -50,6 +50,32 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1991</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 26€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Smells like teen spirit </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- In bloom </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Come as you are </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Breed </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Lithium </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Polly </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Territorial pissings </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Drain you  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Lounge act </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Stay away </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- On a plain  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- Something in the way  </br></h1>
+
+                </div>
         </div>
 
 
