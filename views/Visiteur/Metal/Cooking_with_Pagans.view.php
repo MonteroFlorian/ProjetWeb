@@ -60,7 +60,7 @@
 
                     <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
 
-                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 22€</a>
+                    <a href="<?= URL; ?>achatCWP" class="btn btn-primary btn-lg">Acheter pour 22€</a>
 
                     </div>
                         <h1 style="color:black; font-size:25px; margin-left:40px;">1- Professional help </br></h1>

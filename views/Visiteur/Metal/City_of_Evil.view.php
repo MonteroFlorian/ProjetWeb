@@ -60,7 +60,7 @@
 
                     <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
 
-                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 30€</a>
+                    <a href="<?= URL; ?>achatCOE" class="btn btn-primary btn-lg">Acheter pour 30€</a>
 
                     </div>
                         <h1 style="color:black; font-size:25px; margin-left:40px;">1- Beast and the harlot </br></h1>

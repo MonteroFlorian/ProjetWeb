@@ -61,7 +61,7 @@
 
                     <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
 
-                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 20€</a>
+                    <a href="<?= URL; ?>achatCBT" class="btn btn-primary btn-lg">Acheter pour 20€</a>
 
                     </div>
                         <h1 style="color:black; font-size:25px; margin-left:40px;">1- Prélude en ut majeur </br></h1>

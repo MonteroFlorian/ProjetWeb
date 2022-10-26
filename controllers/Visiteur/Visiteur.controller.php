@@ -73,6 +73,51 @@ class VisiteurController extends MainController{
     }
 
 
+    public function achatCBT(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Classique/achatCBT.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    } 
+
+   
+    public function achatLNS(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Classique/achatLNS.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+   
+    public function achatLQS(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Classique/achatLQS.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+  
+    public function achatOS(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Classique/achatOS.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+
+
 //Metal
 
     public function Metal(){
@@ -125,6 +170,47 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
+    public function achatAC(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Metal/achatAC.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatCOE(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Metal/achatCOE.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+
+    public function achatCWP(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Metal/achatCWP.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatSOEL(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Metal/achatSOEL.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
 
 //Pop
 
@@ -163,6 +249,36 @@ class VisiteurController extends MainController{
             "page_description" => "Description de la page d'accueil",
             "page_title" => "Titre de la page d'accueil",
             "view" => "views/Visiteur/Pop/Red_Pill_Blues.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatAH(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Pop/achatAH.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatDWAH(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Pop/achatDWAH.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatRPB(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Pop/achatRPB.view.php",
             "template" => "views/common/template.php"
         ];
         $this->genererPage($data_page);
@@ -221,6 +337,46 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
+    public function achatGKMC(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rap/achatGKMC.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatIpseite(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rap/achatIpseite.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatMental(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rap/achatMental.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatXeu(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rap/achatXeu.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
 
 //Reggae
 
@@ -274,6 +430,50 @@ class VisiteurController extends MainController{
         $this->genererPage($data_page);
     }
 
+    public function achat96DITS(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Reggae/achat96DITS.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatDDS(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Reggae/achatDDS.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatRT(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Reggae/achatRT.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatTDBOAL(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Reggae/achatTDBOAL.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    
+
+    
+
 
 //Rock
 
@@ -326,6 +526,48 @@ class VisiteurController extends MainController{
         ];
         $this->genererPage($data_page);
     }
+    
+    public function achatABL(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rock/achatABL.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatNevermind(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rock/achatNevermind.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatTEIWWB(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rock/achatTEIWWB.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    public function achatTRE(){
+        $data_page = [
+            "page_description" => "Description de la page d'accueil",
+            "page_title" => "Titre de la page d'accueil",
+            "view" => "views/Visiteur/Rock/achatTRE.view.php",
+            "template" => "views/common/template.php"
+        ];
+        $this->genererPage($data_page);
+    }
+
+    
 
     
     public function creerCompte(){

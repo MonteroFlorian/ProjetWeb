@@ -22,6 +22,8 @@ try{
     switch($page){
         case "accueil": $visiteurController->accueil();
         break;
+        case "login": $visiteurController->login();
+        break;
         case "Rock": $visiteurController->Rock();
         break;
         case "A_Beautiful_Lie": $visiteurController->A_Beautiful_Lie();
@@ -80,8 +82,54 @@ try{
         break;
         case "Oeuvres_sacrees": $visiteurController->Oeuvres_sacrees();
         break;
-        case "login": $visiteurController->login();
+        case "achatCBT": $visiteurController->achatCBT();
         break;
+        case "achatLNS": $visiteurController->achatLNS();
+        break;
+        case "achatLQS": $visiteurController->achatLQS();
+        break;
+        case "achatOS": $visiteurController->achatOS();
+        break;
+        case "achatAC": $visiteurController->achatAC();
+        break;
+        case "achatCOE": $visiteurController->achatCOE();
+        break;
+        case "achatCWP": $visiteurController->achatCWP();
+        break;
+        case "achatSOEL": $visiteurController->achatSOEL();
+        break;
+        case "achatAH": $visiteurController->achatAH();
+        break;
+        case "achatDWAH": $visiteurController->achatDWAH();
+        break;
+        case "achatRPB": $visiteurController->achatRPB();
+        break;
+        case "achatGKMC": $visiteurController->achatGKMC();
+        break;
+        case "achatIpseite": $visiteurController->achatIpseite();
+        break;
+        case "achatMental": $visiteurController->achatMental();
+        break;
+        case "achatXeu": $visiteurController->achatXeu();
+        break;
+        case "achat96DITS": $visiteurController->achat96DITS();
+        break;
+        case "achatDDS": $visiteurController->achatDDS();
+        break;
+        case "achatRT": $visiteurController->achatRT();
+        break;
+        case "achatABL": $visiteurController->achatABL();
+        break;
+        case "achatNevermind": $visiteurController->achatNevermind();
+        break;
+        case "achatTEIWWB": $visiteurController->achatTEIWWB();
+        break;
+        case "achatTRE": $visiteurController->achatTRE();
+        break;
+        case "achatTDBOAL": $visiteurController->achatTDBOAL();
+        break;
+      
+
         case "validation_login":
             if(!empty($_POST['login']) && !empty($_POST['password'])){
                 $login = Securite::secureHTML($_POST['login']);

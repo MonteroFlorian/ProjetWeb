@@ -59,7 +59,7 @@
 
                     <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
 
-                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 21€</a>
+                    <a href="<?= URL; ?>achatRPB" class="btn btn-primary btn-lg">Acheter pour 21€</a>
 
                     </div>
                         <h1 style="color:black; font-size:25px; margin-left:40px;">1- Best 4 u </br></h1>
