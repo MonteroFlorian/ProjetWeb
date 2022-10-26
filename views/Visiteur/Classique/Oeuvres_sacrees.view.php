@@ -50,6 +50,23 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1791</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste symphonies : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 16€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Messe en ut mineur KV 427 </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Requiem en ré mineur KV 626 </br></h1>
+                        
+                       
+                </div>
         </div>
 
 

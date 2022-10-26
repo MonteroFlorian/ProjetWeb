@@ -17,7 +17,7 @@
                 <div class="wrapper">
                     <div class="details">
                         <img class="track-art" src="public\Assets\images\Album\Classique\Vivaldi\Vivaldi.jpg" alt="Card image cap">
-                        <div class="track-name">Storm</div>
+                        <div class="track-name">Hiver</div>
                         <div class="track-artist">Antonio Vivaldi</div>
                     </div>
 
@@ -50,6 +50,23 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1824</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste symphonies : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 26€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Printemps </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Ete </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Automne  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Hiver </br></h1>
+                </div>
         </div>
 
 

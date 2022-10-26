@@ -17,7 +17,7 @@
                 <div class="wrapper">
                     <div class="details">
                         <img class="track-art" src="public\Assets\images\Album\Classique\LVB\LVB.jpg" alt="Card image cap">
-                        <div class="track-name">7ème symphonie en A majeur </div>
+                        <div class="track-name">7ème symphonie en la majeur </div>
                         <div class="track-artist">Beethoven</div>
                     </div>
 
@@ -50,6 +50,29 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1824</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste symphonies : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 24€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Symphonie en ut majeur </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Symphonie en ré majeur </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Symphonie en mi bémol majeur  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Symphonie en si bémol majeur </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Symphonie en ut mineur </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Symphonie en fa majeur </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Symphonie en la majeur </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Symphonie en fa majeur  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Symphonie en ré mineur </br></h1>
+                       
+                </div>
         </div>
 
 
