@@ -52,21 +52,28 @@
             </div>
             
             </br></br>
-                <div class="row" >
-                    <div class="col-sm-6 "  style =" background-color:#FDF5E6 ; text-align:left;">
-                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1865</br></h1>
+                <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2018</br></h1>
                         <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
-                        <h1 style="color:black; font-size:25px; text-align:center;  ">1- Musique 1 </br></h1>
-                        <h1 style="color:black; font-size:25px; text-align:center; ">2- Musique 2 </br></h1>
-                        <h1 style="color:black; font-size:25px; text-align:center;">3- Musique 3 </br></h1>
-                        <h1 style="color:black; font-size:25px; text-align:center;">4- Musique 4 </br></h1>
-                    </div>
-
-                    <div class="col-sm-6 "  style =" background-color:#FDF5E6 ;">
-</br></br></br></br></br>
-                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter</a>
 
                     </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 25€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Glory to our king </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Legend of the king </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- The king welcomes you to avatar country </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- King's harvest </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- The king wants you </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- The king speaks </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- A statue of the king </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- King after king  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Silent songs of the king part 1 </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Silent songs of the king part 2 </br></h1>
                 </div>
                 
         </div>
