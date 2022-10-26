@@ -21,7 +21,7 @@
                         <input type="password" class="form-control" id="password" name="password">
                     </div>
 
-                    <button type="submit" class="btn btn-primary">Connexion</button>
+                    <a href="<?= URL; ?>profil" class="btn btn-primary">Connexion</a>
                 </form>
             </div>
 
