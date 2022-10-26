@@ -50,6 +50,34 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2017</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 17€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Nwaar is the new black </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- #QuedusaalVie </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Mosaïque solitaire </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Dieu ne ment jamais </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Signaler </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Kietu </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Gova </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Macarena  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Peur d'être père </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- Kin la belle </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Lové </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- Noob saibot </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">13- J respect R </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">14- Une âme pour deux </br></h1>
+
+                </div>
         </div>
 
 
