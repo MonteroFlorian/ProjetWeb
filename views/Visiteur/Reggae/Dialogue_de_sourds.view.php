@@ -50,6 +50,36 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 2008</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 16€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Les champs de roses </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Dialogue de sourds </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Tant qu'il y aura </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Les vieillards </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Woman </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Nord-sud </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- Classical option </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- La lettre  </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">9- Samourais de l'occident </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">10- L'ère moderne </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">11- Marley </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">12- Une autre vie </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">13- Dub vieillards </br></h1>
+
+
+
+
+                </div>
         </div>
 
 

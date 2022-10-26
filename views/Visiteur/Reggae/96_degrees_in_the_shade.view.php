@@ -50,6 +50,28 @@
                         </div>  
                 </div>
             </div>
+            <div class="row" style="text-align:left;">
+                    <div class="col-sm-8 "  style =" background-color:#FDF5E6 ; text-align:left;">
+                        <h1 style="color:black; font-size:25px;" ><strong>Date de création : </strong> 1977</br></h1>
+                        <h1 style="color:black; font-size:25px;"><strong>Liste musique : </strong> </br></h1>
+
+                    </div>
+
+                    <div class="col-sm-4 "  style =" background-color:#FDF5E6 ;">
+
+                    <a href="<?= URL; ?>Cooking_with_Pagans" class="btn btn-primary btn-lg">Acheter pour 12€</a>
+
+                    </div>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">1- Jah glory </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">2- Tribal war </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">3- Dreamland </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">4- Feel a little better </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">5- Human market place </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">6- Third world man </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">7- 1865 </br></h1>
+                        <h1 style="color:black; font-size:25px; margin-left:40px;">8- Rythm of life  </br></h1>
+
+                </div>
         </div>
 
 
